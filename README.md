@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Kashyap Prajapati</h1>
+<h1 align="center">Hey 👋🏻, I'm Kashyap Prajapati</h1>
 <h3 align="center">Curious Coder | Always on the Hunt for New Knowledge, Shaping the Future of Tech through Clean, Efficient Code.</h3>
 <hr style="border: 1px solid #00FF00;">
 
