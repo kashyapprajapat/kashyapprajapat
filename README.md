@@ -61,6 +61,10 @@
   <img src="https://socket.io/images/logo.svg" alt="Socket.IO logo" width="40" height="40"/>
                 <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
   <img src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="PM2 logo" width="150" height="40"/>
+                  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://nextjs.org/favicon.ico" alt="Next.js logo" width="40" height="40"/>
+</a>
+
 </a>
 
 </a>
