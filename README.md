@@ -49,6 +49,10 @@
   <img src="https://zustand-demo.pmnd.rs/favicon.ico" alt="zustand logo" width="40" height="40"/>
       <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
   <img src="https://static-production.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png" alt="npm logo" width="40" height="40"/>
+        <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" alt="GitHub logo" width="40" height="40"/>
+</a>
+
 </a>
 
 </a>
