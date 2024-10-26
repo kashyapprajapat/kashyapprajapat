@@ -53,6 +53,10 @@
   <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" alt="GitHub logo" width="40" height="40"/>
           <a href="https://chrome.google.com/webstore" target="_blank" rel="noreferrer">
   <img src="https://fonts.gstatic.com/s/i/productlogos/chrome_store/v7/192px.svg" alt="Chrome Web Store logo" width="40" height="40"/>
+            <a href="https://marketplace.visualstudio.com/items?itemName=cuttingchai.cuttingchai" target="_blank" rel="noreferrer">
+  <img src="https://marketplace.visualstudio.com/favicon.ico" alt="Visual Studio Marketplace logo" width="40" height="40"/>
+</a>
+
 </a>
 
 </a>
