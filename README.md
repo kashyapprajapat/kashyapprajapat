@@ -47,6 +47,10 @@
   <img src="https://tanstack.com/_build/assets/logo-color-100w-lPbOTx1K.png" alt="tanstack query" width="40" height="40"/> 
     <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
   <img src="https://zustand-demo.pmnd.rs/favicon.ico" alt="zustand logo" width="40" height="40"/>
+      <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://static-production.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png" alt="npm logo" width="40" height="40"/>
+</a>
+
 </a>
 
 </a>
