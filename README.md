@@ -56,7 +56,11 @@
             <a href="https://marketplace.visualstudio.com/items?itemName=cuttingchai.cuttingchai" target="_blank" rel="noreferrer">
   <img src="https://marketplace.visualstudio.com/favicon.ico" alt="Visual Studio Marketplace logo" width="40" height="40"/>
               <a href="https://github.com/webmaxru/progressive-web-apps-logo" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="Progressive Web Apps Logo" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="Progressive Web Apps Logo" width="40" height="40
+    <a href="https://socket.io/" target="_blank" rel="noreferrer">
+  <img src="https://socket.io/images/logo.svg" alt="Socket.IO logo" width="40" height="40"/>
+</a>
+
 </a>
 
 </a>
