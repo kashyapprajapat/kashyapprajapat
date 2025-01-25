@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏻, I'm Kashyap Prajapati</h1>
-<h3 align="center">Curious Coder | Always on the Hunt for New Knowledge, Shaping the Future of Tech through Clean, Efficient Code.</h3>
+<h3 align="center">Curious Coder | Always on the Hunt for New Knowledge.</h3>
 <hr style="border: 1px solid #00FF00;">
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif">
