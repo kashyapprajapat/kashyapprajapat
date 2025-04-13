@@ -77,6 +77,22 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://socket.io/images/logo.svg" alt="Socket.IO logo" width="40" height="40"/></a>
+  <!-- Spring (Java) -->
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" />
+</a>
+
+<!-- FastAPI (Python) -->
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" />
+</a>
+
+<!-- Fastify (Node.js) -->
+<a href="https://fastify.dev/" target="_blank" rel="noreferrer">
+  <img src="https://fastify.dev/img/logos/fastify-white.svg" alt="Fastify" width="60" height="40" />
+</a>
+
+
 </p>
 
 &nbsp;
