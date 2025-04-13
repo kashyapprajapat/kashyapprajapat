@@ -97,12 +97,57 @@
 
 &nbsp;
 
+## 🗄️ Database
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
+  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"><img src="https://github.com/cncf/landscape/blob/master/hosted_logos/prisma.svg" alt="prisma" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" alt="GitHub logo" width="40" height="40"/></a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/></a>
+</p>
+
+&nbsp;
+
 ## 📱 Mobile App Development
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
 </p>
 
+&nbsp;
+
+## 🚀 DevOps
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer"><img src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="PM2 logo" width="70" height="40"/></a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
+</p>
+&nbsp;
+
+## 🚦Version Control Tools
+<div className="flex flex-wrap gap-4 items-center">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+      alt="Git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+      alt="GitHub"
+      width="40"
+      height="40"
+    />
+  </a>
+</div>
 &nbsp;
 
 ## 🖥️ Desktop Application Development
@@ -121,32 +166,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions" target="_blank" rel="noreferrer"><img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" alt="Firefox Add-ons" width="40" height="40"/></a>
   <a href="https://developer.microsoft.com/en-us/microsoft-edge/extensions/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Edge_logo_%282019%29.svg" alt="Edge Add-ons" width="40" height="40"/></a>
 </p>
-
-&nbsp;
-
-## 🗄️ Database
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
-  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"><img src="https://github.com/cncf/landscape/blob/master/hosted_logos/prisma.svg" alt="prisma" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" alt="GitHub logo" width="40" height="40"/></a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/></a>
-</p>
-
-&nbsp;
-
-## 🚀 DevOps
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer"><img src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="PM2 logo" width="70" height="40"/></a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
-</p>
-
 &nbsp;
 
 ## ☁️ Backend as a Service (BaaS)
@@ -157,13 +176,6 @@
 
 &nbsp;
 
-## 🧰 Other Tools
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://static-production.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png" alt="npm logo" width="40" height="40"/></a>
-  <a href="https://ffmpeg.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/FFmpeg_Logo_new.svg/300px-FFmpeg_Logo_new.svg.png" alt="ffmpeg" width="200" height="40"/>
-  </a>
-</p>
 
 
 ## 🧪 Testing
@@ -172,7 +184,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/></a>
 </p>
-
 &nbsp;
 
 ## 📱 Progressive Web Apps (PWA)
@@ -181,7 +192,15 @@
   <a href="https://web.dev/learn/pwa/" target="_blank" rel="noreferrer"><img src="https://web-dev.imgix.net/image/FNkVSAX8UDTTQWQkKftSgGe9clO2/Z0YYoFwLkmz37n5G7Rq6.png" alt="PWA" width="40" height="40"/></a>
   <a href="https://developers.google.com/web/tools/workbox" target="_blank" rel="noreferrer"><img src="https://developers.google.com/web/tools/workbox/images/workbox-logo.png" alt="Workbox" width="40" height="40"/></a>
 </p>
+&nbsp;
 
+## 🧰 Other Tools
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://static-production.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png" alt="npm logo" width="40" height="40"/></a>
+  <a href="https://ffmpeg.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/FFmpeg_Logo_new.svg/300px-FFmpeg_Logo_new.svg.png" alt="ffmpeg" width="200" height="40"/>
+  </a>
+</p>
 &nbsp;
 
 ## 🎨 Design Tools
