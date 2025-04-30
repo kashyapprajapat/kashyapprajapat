@@ -156,6 +156,9 @@
   <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/awt/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="AWT" width="40" height="40"/></a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="PyQt" width="40" height="40"/></a>
   <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wxWidgets" width="40" height="40"/></a>
+  <a href="https://streamlit.io/">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="120"/>
+  </a>
 </p>
 
 &nbsp;
