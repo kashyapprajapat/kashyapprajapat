@@ -124,6 +124,9 @@
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png" alt="GitHub Actions" width="40" height="40"/>
+  </a>
   <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer"><img src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="PM2 logo" width="70" height="40"/></a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
 </p>
