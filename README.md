@@ -31,9 +31,6 @@
 
 
 <hr style="border: 1px solid #00FF00;">
-## Tech Skills
-
-### Primary Technologies
 
 | Languages | Frontend | Backend | Database | Mobile | DevOps | Version Control | Desktop | Browser Extensions | BaaS |
 |-----------|----------|---------|----------|--------|--------|-----------------|---------|-------------------|------|
@@ -53,8 +50,6 @@
 <tr>
 <td width="75%">
 
-### Additional Technologies
-
 | Testing | PWA | Other | Design |
 |---------|-----|-------|--------|
 | <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="25" height="25"/> | <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="PWA Logo" width="40" height="25"/> | <img src="https://static-production.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png" alt="npm" width="25" height="25"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/> |
@@ -67,7 +62,7 @@
 
 
 <a href="https://app.daily.dev/kashyapprajapati">
-  <img src="https://api.daily.dev/devcards/v2/ejOLtUi3uMAaN8BrdksTl.png?type=default&r=dj9" width="250" alt="Kashyap Prajapati's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/ejOLtUi3uMAaN8BrdksTl.png?type=default&r=dj9" width="350" alt="Kashyap Prajapati's Dev Card" hight="250"/>
 </a>
 
 </td>
