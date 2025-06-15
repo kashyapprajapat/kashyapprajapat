@@ -25,9 +25,11 @@
 <a href="https://hashnode.com/@kp007" target="blank">
   <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="kp007" height="30" width="30" />
 </a>
-<a href="https://www.hackerrank.com/kashyapprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kashyapprajapati" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/prajapatikashya2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kashyapprajapati" height="30" width="40" /></a>
+<a href="https://medium.com/@prajapatikashyap14" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prajapatikashyap14" height="30" width="40" />
+</a>
 <a href="https://www.leetcode.com/prajapatikashyap14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prajapatikashyap14" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@prajapatikashya2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@prajapatikashya2" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prajapatikashyap14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prajapatikashyap14" height="30" width="40" /></a>
 </p>
 
