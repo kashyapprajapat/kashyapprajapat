@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyapprajapat&label=Profile%20views&color=0e75b6&style=flat" alt="kashyapprajapat" /> </p>
 
 
-- 🌱 I’m currently learning about **Go 🐹🔄⚡**
+- 🌱 I’m currently learning about **.NET 💡🛠️🌐**
 
 - 📫 How to reach me **prajapatikashyap14@gmail.com**
 
