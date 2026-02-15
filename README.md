@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **prajapatikashyap14@gmail.com**
 
-- 👨🏻‍💻 All of my projects are available at https://kashyapprajapati.netlify.app/
+- 👨🏻‍💻 All of my projects are available at [https://www.kashyapprajapati.in/](https://www.kashyapprajapati.in/)
 
 - ⚡ Fun fact **When solving problems, I get the solution but sometimes I ask other developers for help 😄**
 
